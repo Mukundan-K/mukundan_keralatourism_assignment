@@ -1,0 +1,166 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* Home page */
+.mov a:hover{
+    background-color:  #23aa6b;
+}
+
+.move{
+    margin-left: 20px;    
+}
+
+.vl{
+    border-left: 1px solid black;
+    height: 550px;
+    margin-left: 30rem;
+    margin-top: 5rem;
+}
+
+.vl1{
+    border-left: 75px solid #198754;
+    height: 550px;
+    margin-top: 5rem;
+}
+
+.image{
+    margin-top: 5%;
+    margin-left: -1rem;
+    margin-right: -11rem;
+}
+
+.about{
+    margin-left: 2rem ;
+    margin-right: 25%;
+    margin-top: 6%;
+}
+
+.foot{
+    margin-top: 3rem;
+    width: 100%;
+    text-align: center;
+    height: 2rem;
+}
+
+.foot img{
+    margin-left: 1rem;
+}
+
+.mov{
+    margin-left:50%;
+}
+
+.hom{
+    display: flex;
+}
+
+.image img{
+    margin-top: 1px;
+    margin-left: 40px;
+}
+/* End of Home Page */
+
+/* district page */
+.db{
+    background-size: cover;
+}
+
+.cardalign{
+    display: flex;
+}
+
+.cardalign div{
+    margin: 1rem;
+    text-align: center;
+}
+/* end of district page */
+
+/* sign in page */
+.sign{
+    margin-left: -60rem;
+    margin-right: 20%;
+    margin-top: 5%;
+    font-weight: bold;
+}
+
+.foots{
+    margin-top: 17.5rem;
+    width: 100%;
+    text-align: center;
+    height: 2rem;
+}
+
+.salign{
+    display: flex;
+}
+
+.signimg{
+    margin-left: 35%;
+}
+/* end of sign in page */
+
+/* sign up page */
+.signa{
+    margin-left: 10%;
+    margin-right: 50%;
+    margin-top: 5%;
+    font-weight: bold;
+}
+.moves{
+    margin-left: 65%;
+}
+/* end of sign up page */
+
+/* 1 district page */
+.districta{
+    display: flex;
+    margin-right: 5%;
+    margin-top: 2%;
+}
+
+.di{
+    margin-left: 5%;
+    margin-top: 2%;
+}
+
+.ddata p{
+    margin-left: 30%;
+    text-align: center;
+}
+.ddata h2{
+    margin-left: 30%;
+    text-align: center;
+}
+
+.align{
+    text-align: center;
+}
+/* End of 1 district page */
+
+/* validation */
+.error{
+    color: red;
+    font-weight: 500;
+    display: none;
+}
+.display{
+    display: flex !important;
+}
+.hide{
+    display: none !important;
+}
+.strong{
+    color: green;
+    display: none;
+}
+.medium{
+    color: yellow;
+    display: none;
+}
+.weak{
+    color: red;
+    display: none;
+}
+/* validation end */
